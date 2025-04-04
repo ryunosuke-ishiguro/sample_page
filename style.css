@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+/* ヘッダー */
+
+.header-image {
+    width: 100%;
+}
+
+.nav-item {
+    border: 1px solid black;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    width: 50%;
+}
+
+/* メイン */
+
+#main {
+    margin: 0 auto;
+    width: 800px;
+}
+
+.item {
+    margin: 16px 0;
+}
+
+.item-image {
+    width: 100%;
+}
+
+.item-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 12px 0;
+}
+
+/* フッター */
+
+footer {
+    text-align: center;
+}
